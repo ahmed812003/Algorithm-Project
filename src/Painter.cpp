@@ -21,7 +21,6 @@ void Painter::SortingMenu (){
     cout<<" 2- Heap Sort \n";
     cout<<" 3- Merge Sort \n";
     cout<<" 4- Selection sort \n";
-    cout<<" 5- Quick sort \n";
     cout<<"Enter Your Choice [1-4] \n";
     cout<<"--------------------------------------------------"<<"\n";
 }
