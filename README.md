@@ -1,6 +1,6 @@
 # Algorithm-Project
 
-- ## Project for Algorithm Analysis and Design Course.
+- ## Consol Application to practice for Algorithm Analysis and Design Course with simple menus to make it more Interactive.
 
 - ## Project include Algorithms : 
 
@@ -11,5 +11,6 @@
 - Binary Search Algorithm
 - Linear Search Algorithm
 - Breadth-First Search (BFS) (Shortest Path between two nodes , Paths between two nodes)
+- Depth-First Search (DFS) (Shortest Path between two nodes , Paths between two nodes)
 
 - ## Project based on object oriented programming approach 
