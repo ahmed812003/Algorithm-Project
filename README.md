@@ -8,6 +8,8 @@
 - Heap Sort Algorithm 
 - Insertion Sort Algorithm
 - Selection Sort Algorithm
+- Bubble Sort Algorithm
+- Quick Sort Algorithm
 - Binary Search Algorithm
 - Linear Search Algorithm
 - Breadth-First Search (BFS) (Shortest Path between two nodes , Paths between two nodes)
